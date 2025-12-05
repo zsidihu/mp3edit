@@ -9,27 +9,29 @@
 
 <url>
   <loc>https://mp3edit.online/</loc>
-  <lastmod>2025-11-17T13:08:37+00:00</lastmod>
+  <lastmod>2025-12-05T16:22:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mp3edit.online/audio-converter/</loc>
-  <lastmod>2025-11-17T13:08:37+00:00</lastmod>
+  <lastmod>2025-12-05T16:25:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mp3edit.online/audio-spectrometer/</loc>
-  <lastmod>2025-11-17T13:08:38+00:00</lastmod>
+  <lastmod>2025-12-05T16:25:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mp3edit.online/audio-synchronizer/</loc>
-  <lastmod>2025-11-17T13:08:37+00:00</lastmod>
+  <lastmod>2025-12-05T16:25:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mp3edit.online/pitch-shifter/</loc>
-  <lastmod>2025-11-17T13:08:38+00:00</lastmod>
+  <lastmod>2025-12-05T16:25:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
+
 </urlset>
